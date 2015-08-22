@@ -1,2 +1,4 @@
-# bcn.democats.org
-Bytecoin pool frontend
+dsh.democats.org
+================
+
+Dashcoin pool frontend
