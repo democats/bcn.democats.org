@@ -1,4 +1,4 @@
-var api = "http://pool-api.democats.org:8083";
+var api = "http://pool-api.democats.org:7603";
 
 var poolHost = "pool-api.democats.org";
 
@@ -13,3 +13,4 @@ var blockchainExplorer = "http://chainradar.com/{symbol}/block/{id}";
 var transactionExplorer = "http://chainradar.com/{symbol}/transaction/{id}";
 
 var themeCss = "themes/ease-way-light-theme.css";
+
