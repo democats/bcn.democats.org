@@ -1,6 +1,6 @@
-var api = "http://pool-api.democats.org:7603";
+var api = "http://pool.democats.org:7603";
 
-var poolHost = "pool-api.democats.org";
+var poolHost = "pool.democats.org";
 
 var irc = "irc.freenode.net/#democats";
 
