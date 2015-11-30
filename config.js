@@ -1,4 +1,7 @@
+
 var api = "http://pool.democats.org:7603";
+
+var api_blockexplorer = "http://pool.democats.org:7601";
 
 var poolHost = "pool.democats.org";
 
